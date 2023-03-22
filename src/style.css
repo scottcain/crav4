@@ -1,0 +1,26 @@
+hr {
+  margin-top: 0;
+}
+
+.icon {
+  height: 48px;
+  width: 48px;
+}
+
+.readme {
+  margin: 1em auto;
+  text-align: center;
+}
+
+.screenshot {
+  display: block;
+  width: 80%;
+}
+.demo {
+  font-size: 200%;
+  display: block;
+}
+
+.post {
+  border: 1px solid black;
+}
